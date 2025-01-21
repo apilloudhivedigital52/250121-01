@@ -44,11 +44,6 @@
       "fileLocks": [
         {
           "assetId": "5DyCyAorkc86KTtF1F1j5v",
-          "type": "projectCss",
-          "checksum": "0108becadbe07aa7a7ffd2156c840b1e"
-        },
-        {
-          "assetId": "5DyCyAorkc86KTtF1F1j5v",
           "checksum": "85b6516be01f32933ab37719630c7f9d",
           "type": "globalContexts"
         },
@@ -61,6 +56,11 @@
           "type": "cssRules",
           "assetId": "cgBjyMcHxQmx",
           "checksum": "3ac608d991798b06dc608c63f160e674"
+        },
+        {
+          "assetId": "5DyCyAorkc86KTtF1F1j5v",
+          "type": "projectCss",
+          "checksum": "0108becadbe07aa7a7ffd2156c840b1e"
         }
       ],
       "codegenVersion": "0.0.1"
